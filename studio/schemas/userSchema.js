@@ -17,7 +17,7 @@ export const userSchema ={
     },
     {
       name: 'transactions',
-      title: 'Transactios',
+      title: 'Transactions',
       type: 'array',
       of: [
         {
